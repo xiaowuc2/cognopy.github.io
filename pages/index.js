@@ -15,8 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Forgot the moments? Recall{' '}
-          <code className={styles.code}>history</code>
+          Feeling sad lazy weary?{' '}
+          <code className={styles.code}>History is here!</code>
         </p>
 
         <div className={styles.grid}>
