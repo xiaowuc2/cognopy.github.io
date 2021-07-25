@@ -15,8 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Feeling sad lazy weary?{' '}
-          <code className={styles.code}>History is here!</code>
+          AI{' '}
+          <code className={styles.code}>powered cogno-sense, Saves a screenshot and URL of the contents or things that made you laugh.</code>
         </p>
 
         <div className={styles.grid}>
