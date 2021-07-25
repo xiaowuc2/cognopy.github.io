@@ -11,12 +11,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://cognopy.vercel.app">cognoPy!</a>
+          Welcome to <a href="https://cognopy.vercel.app">cognoPy</a>!
         </h1>
 
         <p className={styles.description}>
-          AI{' '}
-          <code className={styles.code}>powered cogno-sense, Saves a screenshot and URL of the contents or things that made you laugh.</code>
+          {' '}
+          <code className={styles.code}>AI powered cogno-sense, Saves a screenshot and URL of the contents or things that made you laugh.</code>
         </p>
 
         <div className={styles.grid}>
