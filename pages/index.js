@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          ©{' '}
           <code className={styles.code}>qxresearch AI</code>
         </a>
       </footer>
