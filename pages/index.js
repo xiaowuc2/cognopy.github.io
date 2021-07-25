@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>cognoPy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">cognopy!</a>
+          Welcome to <a href="https://cognopy.vercel.app">cognoPy!</a>
         </h1>
 
         <p className={styles.description}>
