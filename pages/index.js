@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about cognoPy features and user guide</p>
+            <p>In-depth information about cognoPy Features and Quick Start Guide</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>A day with cognoPy : Mood refresher & Usage statistics</p>
+            <p>A day with cognoPy : Mood Refresher & Usage Statistics</p>
           </a>
 
           <a
