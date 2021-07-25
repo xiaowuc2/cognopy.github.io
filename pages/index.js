@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {' '}
+          ⭐{' '}
           <code className={styles.code}>GitHub/cognoPy</code>
         </a>
       </footer>
