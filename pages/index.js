@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://cognopy.vercel.app">cognoPy</a>!
+          Welcome to <a href="https://cognopy.vercel.app">cognoPy!</a>
         </h1>
 
         <p className={styles.description}>
@@ -57,7 +57,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="/qxresearch%20AI.png" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
