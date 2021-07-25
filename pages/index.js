@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>cognoPy</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/red.ico" />
       </Head>
 
       <main className={styles.main}>
