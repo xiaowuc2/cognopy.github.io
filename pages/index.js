@@ -16,14 +16,8 @@ export default function Home() {
 
         <p className={styles.description}>
           {' '}
-          <code className={styles.code}>AI ✘ CV powered Python package. It saves screenshot and URL of the moments or contents made you laugh.</code>
+          <code className={styles.code}>AI ✘ CV powered Python package. It saves screenshot and URL of the moments or contents made you laugh. Emotion Checkup</code>
         </p>
-        
-        <p className={styles.description}>
-          {' '}
-          <code className={styles.code}>code className={styles.code}>Daily emotion checkup.</code>
-        </p>
-
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
