@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://cognopy.vercel.app">cognoPy!</a>
+          Welcome to <a href="https://github.com/xiaowuc2/cognopy">cognoPy!</a>
         </h1>
 
         <p className={styles.description}>
