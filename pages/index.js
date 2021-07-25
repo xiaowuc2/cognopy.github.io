@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Install &rarr;</h3>
-            <p>Install guideline PyPi.org : `pip install congoPy`</p>
+            <p>Install guideline on pypi.org : pip install congoPy</p>
           </a>
 
           <a
