@@ -7,4 +7,4 @@ a new research framework for deep RL that aims to support some of that diversity
 Dopamine is open-source, TensorFlow-based, and provides compact and reliable
 implementations of some state-of-the-art deep RL agents. We complement this
 offering with a taxonomy of the different research objectives in deep RL research.
-While by no means exhaustive, our analysis highlights the heterogeneity of research in the field, and the value of frameworks such as ours.
+While by no means exhaustive, our analysis highlights the heterogeneity of research in the field, and the value of frameworks such as ours. 
