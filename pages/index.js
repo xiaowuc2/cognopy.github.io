@@ -57,7 +57,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/qxresearch%20AI.png" alt="Vercel Logo" className={styles.logo} />
+          <code className={styles.code}>qxresearch AI</code>
         </a>
       </footer>
     </div>
