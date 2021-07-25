@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Install &rarr;</h3>
-            <p>Install guideline on pypi.org : pip install congoPy</p>
+            <p>Installation guideline on pypi.org : pip install congoPy</p>
           </a>
 
           <a
@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>A day with cognoPy : Usage statistics & Mood refresher</p>
+            <p>A day with cognoPy : Mood refresher & Usage statistics</p>
           </a>
 
           <a
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <h3>Live Demo &rarr;</h3>
             <p>
-              Instantly deploy cognoPy in Google Colab - Give a smile to check! 
+              Instantly deploy cognoPy in Google Colab - Give a smile! 
             </p>
           </a>
         </div>
