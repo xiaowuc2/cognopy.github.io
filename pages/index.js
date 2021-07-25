@@ -52,12 +52,12 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://github.com/qxresearch"
+          href="https://github.com/xiaowuc2/cognoPy"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ©{' '}
-          <code className={styles.code}>qxresearch AI</code>
+          {' '}
+          <code className={styles.code}>GitHub/cognoPy</code>
         </a>
       </footer>
     </div>
