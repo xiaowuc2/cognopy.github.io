@@ -53,7 +53,7 @@ export default function Home() {
            <code className={styles.code}>What's new</code>
          </p>
          <dl>
-           <dt>2.2 `27-06-21`</dt>
+           <dt>2.2</dt>
            <dd>• Improved file management</dd>
            <dt>2.1</dt>
            <dd>• OCR to detect add metadata from screenshot</dd>
