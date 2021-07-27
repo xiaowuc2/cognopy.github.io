@@ -46,6 +46,10 @@ export default function Home() {
             <p>
               Instantly deploy cognoPy in Google Colab - Give a smile! 
             </p>
+         <p className={styles.description}>
+           {' '}
+           <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
+         </p>
           </a>
         </div>
       </main>
