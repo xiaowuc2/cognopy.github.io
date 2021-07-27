@@ -49,13 +49,13 @@ export default function Home() {
           </a>
         </div>
          <p className={styles.description}>
-           {' '} <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
+           {' '}
            <code className={styles.code}>What's new</code>
            <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
          </p>
          <dl>
            <dt>2.2</dt>
-           <dd>• Improved file management</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/> Improved file management</dd>
            <dt>2.1</dt>
            <dd>• OCR to detect add metadata from screenshot</dd>
            <dd>• Average mood detection</dd>
