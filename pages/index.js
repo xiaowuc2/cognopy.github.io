@@ -54,7 +54,7 @@ export default function Home() {
            <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
          </p>
          <dl>
-           <dt>2.2</dt>
+           <dt>2.2<code>28-06-21</code></dt>
            <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/> Improved file management</dd>
            <dt>2.1</dt>
            <dd>• OCR to detect add metadata from screenshot</dd>
