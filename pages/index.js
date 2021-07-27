@@ -16,7 +16,7 @@ export default function Home() {
 
         <p className={styles.description}>
           {' '}
-          <code className={styles.code}>AI powered Python app. Saves and shows screenshot and URL of the moments or contents made you laugh If it detects you're sad.</code>
+          <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
         </p>
 
         <div className={styles.grid}>
