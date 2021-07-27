@@ -49,8 +49,9 @@ export default function Home() {
           </a>
         </div>
          <p className={styles.description}>
-           <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/> {' '} <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
+           {' '} <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
            <code className={styles.code}>What's new</code>
+           <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
          </p>
          <dl>
            <dt>2.2</dt>
