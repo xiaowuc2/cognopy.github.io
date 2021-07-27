@@ -51,17 +51,12 @@ export default function Home() {
          <p className={styles.description}>
            {' '}
            <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
-           <ul>
-             <li>First point here... * Second point here... * Third point here...</li>
-           </ul>
-         </p>
-
          <ul>
            <li>Coffee</li>
            <li>Tea</li>
            <li>Milk</li>
          </ul>
-
+         </p>
       </main>
 
       <footer className={styles.footer}>
