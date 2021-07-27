@@ -52,11 +52,14 @@ export default function Home() {
            {' '}
            <code className={styles.code}>What's new</code>
          </p>
-         <ul>
-           <li>OCR to detect add metadata from screenshot</li>
-           <li>Average mood detection</li>
-           <li>Improved memory usage</li>
-         </ul>
+         <dl>
+           <dt>v 2.2</dt>
+           <dd>• Improved file management</dd>
+           <dt>v 2.1</dt>
+           <dd>• OCR to detect add metadata from screenshot</dd>
+           <dd>• Average mood detection</dd>
+           <dd>• Improved memory usage</dd>
+         </dl>
       </main>
 
       <footer className={styles.footer}>
