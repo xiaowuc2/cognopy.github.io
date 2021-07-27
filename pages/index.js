@@ -18,6 +18,16 @@ export default function Home() {
           {' '}
           <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
         </p>
+                 <p>
+          {' '}
+          <code className={styles.code}>What's new</code>
+           <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
+         </p>
+         <dl>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/tel.png" width="7px;"/>  OCR to detect add metadata from screenshot</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/tel.png" width="7px;"/>  Average mood detection</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/tel.png" width="7px;"/>  Improved memory usage</dd>
+         </dl>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
