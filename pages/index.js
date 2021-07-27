@@ -53,9 +53,9 @@ export default function Home() {
            <code className={styles.code}>What's new</code>
          </p>
          <ul>
-           <li>Coffee</li>
-           <li>Tea</li>
-           <li>Milk</li>
+           <li>OCR to detect add metadata from screenshot</li>
+           <li>Average mood detection</li>
+           <li>Improved memory usage</li>
          </ul>
       </main>
 
