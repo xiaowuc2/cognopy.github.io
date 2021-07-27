@@ -49,7 +49,7 @@ export default function Home() {
           </a>
         </div>
          <p className={styles.description}>
-            <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/cogno/green.png" width="8px;" alt="Anatoli-deBRADKE"/>{' '}
+            {' '}<img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/cogno/green.png" width="8px;">
            <code className={styles.code}>What's new</code>
          </p>
          <dl>
@@ -68,7 +68,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {' '} <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/cogno/green.png" width="8px;" alt="Anatoli-deBRADKE"/>
+          {' '}
           <code className={styles.code}>⭐ GitHub/cognoPy</code>
         </a>
       </footer>
