@@ -48,6 +48,10 @@ export default function Home() {
             </p>
           </a>
         </div>
+         <p className={styles.description}>
+           {' '}
+           <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
+         </p>
       </main>
 
       <footer className={styles.footer}>
