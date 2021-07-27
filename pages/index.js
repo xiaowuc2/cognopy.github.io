@@ -50,7 +50,7 @@ export default function Home() {
         </div>
          <p className={styles.description}>
            {' '}
-           <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
+           <code className={styles.code}>What's new</code>
          </p>
          <ul>
            <li>Coffee</li>
