@@ -51,15 +51,15 @@ export default function Home() {
          <p className={styles.description}>
            {' '}
            <code className={styles.code}>What's new</code>
-           <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="8px;"/>
+           <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
          </p>
          <dl>
            <dt>2.2<code>28-06-21</code></dt>
-           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="8px;"/> Improved file management</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="7px;"/> Improved file management</dd>
            <dt>2.1</dt>
-           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="8px;"/> OCR to detect add metadata from screenshot</dd>
-           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="8px;"/> Average mood detection</dd>
-           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="8px;"/> Improved memory usage</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="7px;"/> OCR to detect add metadata from screenshot</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="7px;"/> Average mood detection</dd>
+           <dd><img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/blue.png" width="7px;"/> Improved memory usage</dd>
          </dl>
       </main>
 
