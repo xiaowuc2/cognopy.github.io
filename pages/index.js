@@ -49,10 +49,15 @@ export default function Home() {
           </a>
         </div>
          <p className={styles.description}>
-           Artificial Intelligence{' '}
+           {' '}
            <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
-           Machine Learning
          </p>
+
+         <ul>
+           <li>Coffee</li>
+           <li>Tea</li>
+           <li>Milk</li>
+         </ul>
 
       </main>
 
