@@ -46,7 +46,6 @@ export default function Home() {
             <p>
               Instantly deploy cognoPy in Google Colab - Give a smile! 
             </p>
-            <br>
           </a>
         </div>  
          <p>
