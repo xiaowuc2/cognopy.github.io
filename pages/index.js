@@ -48,7 +48,7 @@ export default function Home() {
             </p>
           </a>
         </div>
-         <p className={styles.description}>
+         <p>
            <cod>What's new</code>
            <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/cogno/green.png" width="8px;"/>
          </p>
