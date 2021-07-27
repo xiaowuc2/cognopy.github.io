@@ -48,9 +48,7 @@ export default function Home() {
             </p>
             <br>
           </a>
-          <br>
-        </div>
-         <br>  
+        </div>  
          <p>
           {' '}
           <code className={styles.code}>What's new</code>
