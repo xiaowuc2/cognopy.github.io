@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Install &rarr;</h3>
-            <p>Installation guideline on GitHub.<code>git clone https://github.com/cognoPy/cognoPy</code></p>
+            <p>Installation guideline.<code>git clone https://github.com/cognoPy/cognoPy</code></p>
           </a>
 
           <a
