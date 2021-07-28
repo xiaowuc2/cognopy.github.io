@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Install &rarr;</h3>
-            <p>Installation guideline available on GitHub.</p>
+            <p>Installation guideline available on documentation. Click to download.</p>
           </a>
 
           <a
