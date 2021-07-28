@@ -16,7 +16,7 @@ export default function Home() {
 
         <p className={styles.description}>
           {' '}
-          <code className={styles.code}>AI powered Python app. Detects your smile and what made you smile.</code>
+          <code className={styles.code}>AI powered application. Detects your smile and what made you smile.</code>
         </p>
 
         <div className={styles.grid}>
